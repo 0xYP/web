@@ -1,6 +1,6 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">root@ypsyntax</span>:<span id="b">~</span><span id="c">$</span> cd yp/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">root@ypsyntax</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->yp.txt<br/><br/>
+Call Me, "<span id="k">YupySyntax</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -10,4 +10,4 @@ Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglag
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
-<p>Cheers!</p>
+"<span id="k">Cheers!</span>"<p>Cheers!</p>
